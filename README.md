@@ -2,7 +2,7 @@
 
 **Software Engineer | Full-Stack • AI • Backend**
 
-BA in Computer Science @ Vassar | Building scalable backend systems, AI-powered tools, and cloud-native apps.
+Bachelors in Computer Science @ Vassar | Building scalable backend systems, AI-powered tools, and cloud-native apps.
 
 ## 🚀 About Me
 - Backend and AI-focused Software Engineer
