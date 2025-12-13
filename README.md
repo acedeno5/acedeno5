@@ -26,7 +26,7 @@ Bachelors in Computer Science @ Vassar | Building scalable backend systems, AI-p
 | **Course Scheduler** | Java-based time conflict detection and schedule generator | Java, DSA |
 | **Portfolio Website** | React-based personal site with dynamic content | React, JS |
 | **Scalable Event-Driven Notification System** | Scalable system design project | TBD |
-| **AI Résumé Matcher SaaS (ML + Full-Stack)** | Full-stack application that scores résumés against job descriptions | TBD |
+| **AI Resume Matcher SaaS (ML + Full-Stack)** | Full-stack application that scores résumés against job descriptions | TBD |
 | **Real-Time Multiplayer Game Server (Distributed Systems)** | A high-performance real-time game server | TBD |
 
 <!--
