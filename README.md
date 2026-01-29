@@ -8,7 +8,7 @@ Bachelors in Computer Science @ Vassar | Building scalable backend systems, AI-p
 - Backend and AI-focused Software Engineer
 - Experience with Java, Python, and scalable distributed systems
 - Passion for building real-world, high-impact products  
-- US Citizen 🇺🇸 | Open to roles in SWE, Backend, Data Engineering, ML, AI
+- US Citizen 🇺🇸 | Open to roles in SWE, Backend,Frontend,Full-Stack, Data Engineering, ML, AI
 
 ## 🧠 Technical Skills
 **Languages:** Java, Python, C++, JavaScript  
@@ -25,9 +25,9 @@ Bachelors in Computer Science @ Vassar | Building scalable backend systems, AI-p
 | **Flash App (Android)** | GPS speed tracking app w/ real-time Firebase backend | Java, Android, Firebase |
 | **Course Scheduler** | Java-based time conflict detection and schedule generator | Java, DSA |
 | **Portfolio Website** | React-based personal site with dynamic content | React, JS |
-| **Scalable Event-Driven Notification System** | Scalable system design project | TBD |
-| **AI Resume Matcher SaaS (ML + Full-Stack)** | Full-stack application that scores résumés against job descriptions | TBD |
-| **Real-Time Multiplayer Game Server (Distributed Systems)** | A high-performance real-time game server | TBD |
+| **Scalable Event-Driven Notification System** | Scalable system design project | Java, Spring Boot, Docker |
+| **AI Resume Matcher SaaS (ML + Full-Stack)** | Full-stack application that scores résumés against job descriptions | Python, Docker, HTML, SQL, FastAPI |
+| **Real-Time Multiplayer Game Server (Distributed Systems)** | A high-performance real-time game server | Javascript, Node, HTML |
 
 <!--
 ## 📊 GitHub Stats
