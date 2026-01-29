@@ -8,7 +8,7 @@ Bachelors in Computer Science @ Vassar | Building scalable backend systems, AI-p
 - Backend and AI-focused Software Engineer
 - Experience with Java, Python, and scalable distributed systems
 - Passion for building real-world, high-impact products  
-- US Citizen 🇺🇸 | Open to roles in SWE, Backend,Frontend,Full-Stack, Data Engineering, ML, AI
+- US Citizen 🇺🇸 | Open to roles in SWE, Backend, Frontend, Full-Stack, Data Engineering, ML, AI
 
 ## 🧠 Technical Skills
 **Languages:** Java, Python, C++, JavaScript  
